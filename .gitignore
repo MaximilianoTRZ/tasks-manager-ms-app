@@ -1,0 +1,29 @@
+# Java
+*.class
+*.log
+*.jar
+*.war
+*.iml
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# IntelliJ
+.idea/
+*.iws
+*.ipr
+*.iml
+out/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
